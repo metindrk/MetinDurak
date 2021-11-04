@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @metindrk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-metindrk/metindrk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi there. I'm Metin Durak
+- 👀 I’m interested in AWS Solutions Architect & DevOps.
+- 🌱 I’m a lifetime learner and nowadays currently learning Python, Linux, 
+- 💞️ I’m looking to collaborate on Machine Learning projects..
+- I will be honored to share my experience and knowledge with you and always be eager to learn what you will offer
+- 📫 How to reach me mtndrg@gmail.com
