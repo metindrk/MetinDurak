@@ -1,6 +1,6 @@
 - 👋 Hi there. I'm Metin Durak
 - 👀 I’m interested in AWS Solutions Architect & DevOps.
-- 🌱 I’m a lifetime learner and nowadays currently learning Python, Linux, 
+- 🌱 I’m a lifetime learner and nowadays currently learning Python, Linux, Git-GitHub,   
 - 💞️ I’m looking to collaborate on AWS Solutions Architect & DevOps..
 - I will be honored to share my experience and knowledge with you and always be eager to learn what you will offer
 - 📫 How to reach me mtndrg@gmail.com
